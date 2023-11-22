@@ -1,0 +1,6 @@
+{
+    "name": "auto-retaliate",
+    "servers": ["https://raw.githubusercontent.com/FrostSigil/retaliate/master/"],
+    "disableAutoUpdate": false,
+    "description": "Description goes here."
+}
